@@ -1,9 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import Body from './components/Body';
+import './App.scss';
 
 function App() {
   return (
-   'Hello world'
+   <Body/>
   );
 }
 
